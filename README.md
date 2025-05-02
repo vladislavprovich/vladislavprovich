@@ -2,13 +2,6 @@
 
 Backend developer with 3 years of experience in Golang. Participated in the migration from monolithic systems to microservices, implemented integrations with third-party APIs, and developed internal tools to streamline development workflows. Experienced in containerization, cloud platforms, and observability tooling. Focused on writing clean, maintainable code and building reliable, production-ready systems. I enjoy sports and fishing in my free time.
 
-🔧 **Technologies I use**  
-![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=white&style=flat)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-
 <!--
 **vladislavprovich/vladislavprovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
