@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Backend developer with 3 years of experience in Golang. Participated in the migration from monolithic systems to microservices, implemented integrations with third-party APIs, and developed internal tools to streamline development workflows. Experienced in containerization, cloud platforms, and observability tooling. Focused on writing clean, maintainable code and building reliable, production-ready systems. I enjoy sports and fishing in my free time.
+
 <!--
 **vladislavprovich/vladislavprovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
